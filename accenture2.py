@@ -50,6 +50,7 @@ print(output)
     input:a4k3b2
     output:aeknbd
     
+    
     input:A4K3W5
     output:AEKNWB
 """
