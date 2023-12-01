@@ -7,7 +7,7 @@ of the password . You are supposed to  print valid. If the passowrld meets crite
 meet the criteria mentioned below.
 
 1.At least min characters
-2.At least one numeric digit 
+2.At least one numeric digit  
 3.At least one capital letter
 4.At least one special character
 5.Must not have spaxe or +
